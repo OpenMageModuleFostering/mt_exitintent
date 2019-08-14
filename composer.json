@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MT_Exitintent",
+    "type": "magento-module",
+    "license": "Pay-Licensed-Viewable-Source",
+    "homepage": "",
+    "description": "Exit Popup FREE",
+    "authors": [
+    {
+        "name": "Edvinas Stulpinas",
+        "email": "edvinas.stulpinas@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
