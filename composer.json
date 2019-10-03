@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MT_Exitintent",
+    "name": "OpenMageModuleFostering\/MT_Exitintent",
     "type": "magento-module",
     "license": "Pay-Licensed-Viewable-Source",
     "homepage": "",
     "description": "Free exit intent popup pro extension version",
     "authors": [
-    {
-        "name": "Edvinas Stulpinas",
-        "email": "edvinas.stulpinas@gmail.com"
-    }
-],
+        {
+            "name": "Edvinas Stulpinas",
+            "email": "edvinas.stulpinas@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
